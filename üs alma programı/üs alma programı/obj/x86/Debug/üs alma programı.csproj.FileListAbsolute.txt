@@ -1,0 +1,11 @@
+C:\Users\ibrahim\AppData\Local\Temporary Projects\üs alma programı\obj\x86\Debug\üs_alma_programı.Form1.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\üs alma programı\obj\x86\Debug\üs_alma_programı.Properties.Resources.resources
+C:\Users\ibrahim\AppData\Local\Temporary Projects\üs alma programı\obj\x86\Debug\üs alma programı.csproj.GenerateResource.Cache
+C:\Users\ibrahim\AppData\Local\Temporary Projects\üs alma programı\bin\Debug\üs alma programı.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\üs alma programı\bin\Debug\üs alma programı.pdb
+C:\Users\ibrahim\AppData\Local\Temporary Projects\üs alma programı\obj\x86\Debug\üs alma programı.exe
+C:\Users\ibrahim\AppData\Local\Temporary Projects\üs alma programı\obj\x86\Debug\üs alma programı.pdb
+C:\Users\ibrahim\documents\visual studio 2010\Projects\üs alma programı\üs alma programı\obj\x86\Debug\üs alma programı.exe
+C:\Users\ibrahim\documents\visual studio 2010\Projects\üs alma programı\üs alma programı\obj\x86\Debug\üs alma programı.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\üs alma programı\üs alma programı\obj\x86\Debug\üs alma programı.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\üs alma programı\üs alma programı\obj\x86\Debug\üs alma programı.pdb
